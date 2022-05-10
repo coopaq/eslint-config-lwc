@@ -25,6 +25,10 @@ const KNOWN_WIRE_ADAPTERS = [
         identifier: 'CartSummaryAdapter',
     },
     {
+        module: 'commerce/checkoutApi',
+        identifier: 'CheckoutInformationAdapter',
+    },
+    {
         module: 'commerce/contextApi',
         identifier: 'AppContextAdapter',
     },
